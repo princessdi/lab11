@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "lab11-20791": {
+      "hosting": {
+        "app": [
+          "lab11-20791"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "lab11-20791"
+  }
+}
